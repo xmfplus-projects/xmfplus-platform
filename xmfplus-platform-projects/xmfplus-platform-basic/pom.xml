@@ -14,8 +14,6 @@
     <modules>
         <module>xmfplus-platform-gateway</module>
         <module>xmfplus-platform-auth</module>
-        <module>xmfplus-platform-sso-srv</module>
-
     </modules>
 
     <properties>
